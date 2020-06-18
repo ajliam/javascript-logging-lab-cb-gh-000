@@ -1,1 +1,1 @@
-console.error("This is useful information!")
+console.warn("This is useful information!")
