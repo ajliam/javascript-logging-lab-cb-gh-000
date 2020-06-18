@@ -1,1 +1,3 @@
-console.warn("This is useful information!")
+console.log("hi");
+
+console.error("help!");
